@@ -1,0 +1,4 @@
+﻿* Polimorfizm (Polymorphism) *
+
+Polimorfizm, bir nesnenin farklı şekillerde davranabilme yeteneğini ifade eder. 
+Bu,aynı arayüzü veya sınıfı kullanarak farklı tipteki nesneleri işleyebilmenizi sağlar.

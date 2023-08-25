@@ -1,0 +1,4 @@
+﻿ * Örnekleme (Instantiation) * 
+
+Bir sınıftan nesne yaratmak, o sınıftan bir örnek oluşturmak anlamına gelir. 
+Bu işlem genellikle "nesne yaratma" veya "nesne oluşturma" olarak adlandırılır.

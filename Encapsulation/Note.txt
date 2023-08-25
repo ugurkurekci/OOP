@@ -1,0 +1,4 @@
+﻿* Kapsülleme(Encapsulation) *
+
+Kapsülleme, nesnelerin ve sınıfların iç durumlarını (veri) ve dış arayüzlerini (metotlar) gizlemesini sağlayan bir prensiptir. 
+Bu sayede bir nesnenin iç yapısı dışarıya gizlenir ve nesnenin dışarıdan nasıl kullanılması gerektiği belirlenir.

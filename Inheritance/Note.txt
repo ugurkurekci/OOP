@@ -1,0 +1,4 @@
+﻿* Kalıtım (Inheritance) *
+
+Kalıtım, bir sınıfın başka bir sınıftan özelliklerini ve davranışlarını miras almasını sağlayan bir özelliktir. 
+Bu sayede varolan bir sınıfın özelliklerini tekrar kullanmadan yeni bir sınıf oluşturabilirsiniz.
